@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abela12&label=Profile%20views&color=0e75b6&style=flat" alt="abela12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abela12" alt="abela12" /></a> </p>
+<p align="left"> <a href="https://abel.pages.dev/"><img src="https://github-profile-trophy.vercel.app/?username=abela12" alt="abela12" /></a> </p>
 
 - 🔭 I’m currently working on **Hospital Management System**
 
