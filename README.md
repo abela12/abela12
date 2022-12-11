@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://abel.pages.dev/"><img src="https://github-profile-trophy.vercel.app/?username=abela12" alt="abela12" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **everything 🤣**
 
