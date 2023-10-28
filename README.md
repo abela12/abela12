@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel Software Developer</h1>
-<h3 align="center">A passionate software developer from Ethiopia</h3>
+<h3 align="center">A passionate software developer from the universe who is developing software to help us create a better future for humanity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abela12&label=Profile%20views&color=0e75b6&style=flat" alt="abela12" /> </p>
 
