@@ -8,7 +8,7 @@
 
 - 🌱 I’m always learning and exploring new technologies 🚀
 
-- 💬 Ask me about **How to effectively search on Stack Overflow!**
+- 💬 Ask me about **How to effectively search on Stack Overflow! or Chat GPT**
 
 - 📫 Reach me at **abelberhanu6@gmail.com**
 
