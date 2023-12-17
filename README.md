@@ -33,7 +33,7 @@
 
 ---
 
-### 🌐 Check out my personal website:
+### 🌐 Check out my website:
 
 [![Personal Website](https://img.shields.io/badge/abel.pages.dev-Portfolio-orange)](https://abel.pages.dev/)
 
