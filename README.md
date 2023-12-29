@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abela12&label=Profile%20views&color=0e75b6&style=flat" alt="abela12" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@34af7b01-c7bd-47a1-b409-c0cbf245d7cc)
+
 - 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m always learning and exploring new technologies 🚀
