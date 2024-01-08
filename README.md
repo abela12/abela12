@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **How to effectively search on Stack Overflow! or Chat GPT**
 
+- 🏅 Check out my tutorials on [AI Programming](t.me/freecodecs). 
+
 - 📫 Reach me at **abelberhanu6@gmail.com**
 
 ---
