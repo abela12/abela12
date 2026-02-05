@@ -6,7 +6,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@34af7b01-c7bd-47a1-b409-c0cbf245d7cc)
 
-- 🔭 I’m currently working on **MERN Stack** using **TypeScript**🔥.
+- 🔭 I’m currently working on **MERN Stack and Nest js** using **TypeScript**🔥.
 
 - 🌱 I’m always learning and exploring new technologies 🚀
 
