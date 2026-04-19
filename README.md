@@ -30,10 +30,17 @@
 
 ### 🛠️ Technologies & Tools:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-JS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-TS-blue)
+![React](https://img.shields.io/badge/React-Frontend-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![NestJS](https://img.shields.io/badge/NestJS-Framework-red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+![Express](https://img.shields.io/badge/Express-API-lightgrey)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+![REST API](https://img.shields.io/badge/REST-API-blueviolet)
+![JWT](https://img.shields.io/badge/Auth-JWT-yellowgreen)
+
 
 ---
 
