@@ -10,7 +10,7 @@
 
 - 🌱 I’m always learning and exploring new technologies 🚀
 
-- 💬 Ask me about **How to effectively search on Stack Overflow! or Chat GPT**
+- 💬 Ask me about **APIs, system design, authentication, performance, database modeling, etc.**
 
 - 🏅 Check out my tutorials on [AI Programming](https://t.me/freecodecs). 
 
@@ -20,7 +20,7 @@
 
 ### 🚀 What I'm up to:
 
-- 🌐 Exploring the world of **MERN Stack development** and building scalable applications.
+- 🌐 Exploring the world of **Monorepo Next Js & Nest Js Stack development** and building scalable applications.
 
 - 📚 Learning and staying up-to-date with the ever-evolving tech landscape.
 
